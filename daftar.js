@@ -58,5 +58,5 @@ document.addEventListener('DOMContentLoaded', function () {
     }, 100);
 });// script.js
 document.getElementById("submitBtn").addEventListener("click", function() {
-  window.location.href = "beranda.html";
+  window.location.href = "index.html";
 });
